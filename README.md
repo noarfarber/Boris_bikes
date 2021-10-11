@@ -23,10 +23,6 @@ I'd like to see if a bike is working.
 | Person          | pick_bike     |
 | Person          | test_bike     |
 | Person          | use_bike      |
-
-
 | Bike            | working?      |
-
-
 | Docking station | has_bike?     |
 | Docking station | release       |
